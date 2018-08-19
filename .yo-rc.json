@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nicolas.gmbapp"
+    },
+    "jhipsterVersion": "5.2.1",
+    "applicationType": "monolith",
+    "baseName": "gmbapp",
+    "packageName": "com.nicolas.gmbapp",
+    "packageFolder": "com/nicolas/gmbapp",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "3bd47695e38327d7a5c88e920af6ef69a562f2c5",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
